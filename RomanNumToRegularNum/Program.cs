@@ -6,13 +6,12 @@ namespace RomanNumToRegularNum
     {
         private string RomanNum;
         private int Num;
-        private Dictionary<char, int> RomanChars;
+        private Dictionary<char, int> RomanChars = new Dictionary<char, int>();
 
         public RomanNumToRegularNum()
         {
             RomanNum = "";
             Num = 0;
-            RomanChars = new Dictionary<char, int>();
             RomanChars.Add('I', 1);
             RomanChars.Add('V', 5);
             RomanChars.Add('X', 10);
