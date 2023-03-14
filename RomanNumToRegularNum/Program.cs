@@ -24,10 +24,6 @@ namespace RomanNumToRegularNum
         public int RomanToInt(string s)
         {
             RomanNum = s;
-            // for (var i = 0; i < s.Length; ++i)
-            // {
-            //     Num += RomanChars[s[i]];
-            // }
             if (s.Length == 1)
             {
                 Num = RomanChars[s[0]];
