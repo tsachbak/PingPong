@@ -1,0 +1,15 @@
+C:\Users\tsach\RiderProjects\shapes\shapes\bin\Debug\net7.0\ShapesHierarchy.exe
+C:\Users\tsach\RiderProjects\shapes\shapes\bin\Debug\net7.0\ShapesHierarchy.deps.json
+C:\Users\tsach\RiderProjects\shapes\shapes\bin\Debug\net7.0\ShapesHierarchy.runtimeconfig.json
+C:\Users\tsach\RiderProjects\shapes\shapes\bin\Debug\net7.0\ShapesHierarchy.dll
+C:\Users\tsach\RiderProjects\shapes\shapes\bin\Debug\net7.0\ShapesHierarchy.pdb
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\shapes.csproj.AssemblyReference.cache
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\shapes.AssemblyInfoInputs.cache
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\shapes.AssemblyInfo.cs
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\shapes.csproj.CoreCompileInputs.cache
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\ShapesHierarchy.dll
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\refint\ShapesHierarchy.dll
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\ShapesHierarchy.pdb
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\shapes.genruntimeconfig.cache
+C:\Users\tsach\RiderProjects\shapes\shapes\obj\Debug\net7.0\ref\ShapesHierarchy.dll

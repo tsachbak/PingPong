@@ -1,0 +1,15 @@
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\bin\Debug\net6.0\RomanNumToRegularNum.exe
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\bin\Debug\net6.0\RomanNumToRegularNum.deps.json
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\bin\Debug\net6.0\RomanNumToRegularNum.runtimeconfig.json
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\bin\Debug\net6.0\RomanNumToRegularNum.dll
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\bin\Debug\net6.0\RomanNumToRegularNum.pdb
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.csproj.AssemblyReference.cache
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.AssemblyInfoInputs.cache
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.AssemblyInfo.cs
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.csproj.CoreCompileInputs.cache
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.dll
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\refint\RomanNumToRegularNum.dll
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.pdb
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\RomanNumToRegularNum.genruntimeconfig.cache
+C:\Users\tsach\RiderProjects\RomanNumToRegularNum\obj\Debug\net6.0\ref\RomanNumToRegularNum.dll
